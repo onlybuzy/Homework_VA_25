@@ -1,0 +1,2 @@
+# AI_course_WS
+EXCERSICES TO COMPLETE
